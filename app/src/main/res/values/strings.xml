@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text Entry App</string>
+    <string name="text_entry">Enter Your Name</string>
+    <string name="button_text">Enter</string>
+</resources>
